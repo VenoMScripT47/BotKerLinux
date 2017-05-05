@@ -1,0 +1,48 @@
+
+~~~~~~~~~30-04-2017 :->  22:57:21~~~~~~~~~
+
+~~~~~~~~~30-04-2017 :->  22:58:43~~~~~~~~~
+
+Windows IP Configuration
+
+
+Wireless LAN adapter ??‡‰…˜ —…‰* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter ??Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::c8ef:7b57:e55:a5f0%2
+   Autoconfiguration IPv4 Address. . : 169.254.165.240
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Npcap Loopback Adapter:
+
+   Connection-specific DNS Suffix  . : home
+   Link-local IPv6 Address . . . . . : fe80::9dba:9955:d033:41cd%8
+   IPv4 Address. . . . . . . . . . . : 192.168.1.4
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Ethernet adapter ??‡‰…˜ ˜™š ™Œ Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter ??‡‰…˜ —…‰* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter isatap.home:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : home
+
+Tunnel adapter isatap.{113B101C-D9D2-4A3D-BB86-A3E360FD771E}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
